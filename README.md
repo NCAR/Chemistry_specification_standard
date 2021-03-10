@@ -5,3 +5,9 @@ JSON/YAML standard for specification of chemistry and aerosols
 
 # Versioning
 
+# "GO"-type conversion to "structs"
+
+# GUI editor
+
+# "schema" and validation
+
