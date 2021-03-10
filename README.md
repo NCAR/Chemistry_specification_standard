@@ -1,8 +1,8 @@
 # Chemistry_specification_standard
-JSON/YAML standard (schema) for specification of chemistry and aerosols
+JSON/YAML standard (schema) for specification of chemistry and aerosols.  Longer descriptions are available in the [wiki](https://github.com/NCAR/Chemistry_specification_standard/wiki)
 
 # Governance
-The governing board is described in the wiki.  They are responsible for the direction and releases of this standard.
+The governing board is described in the [wiki](https://github.com/NCAR/Chemistry_specification_standard/wiki/Governance).  They are responsible for the direction and releases of this standard.
 
 # GUI editor
 The GUI  provides a user-friendly editor of specifications that are consistent with the standard.
